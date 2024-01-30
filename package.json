@@ -1,6 +1,6 @@
 {
-    "name": "com.SparkesRS.unity-test-package",
-    "version": "1.0.0",
+    "name": "com.sparkesrs.unity-test-package",
+    "version": "1.0.1",
     "displayName": "Unity Test Package",
     "description": "A simple Unity package for testing importing from a Git url.",
     "unity": "2021.3",
